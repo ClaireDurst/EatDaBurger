@@ -1,5 +1,5 @@
  html {
- 	background-color: #FFC04C;
+ 	background-color: #90EE90;
  }
 
  body {
@@ -9,7 +9,7 @@
 	display: flex;
 	min-height: 90vh;
 	flex-direction: column;
-	background-color: orange;
+	background-color: black;
  }
 
  #cute_burger {
